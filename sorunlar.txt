@@ -1,4 +1,4 @@
-Sorunlar:    
+V2DCMotordaki Sorunlar:    
 
     Tam düz gitmiyor:Sağa doğru dönüyor
     Olası sebepleri:
