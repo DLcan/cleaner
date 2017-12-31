@@ -1,0 +1,32 @@
+Sorunlar:    
+
+    Tam düz gitmiyor:Sağa doğru dönüyor
+    Olası sebepleri:
+        1- Tekerlekler eşit çevreye sahip değil, ya da
+        2- Dönerken yalpalıyorlar, ya da
+        3- Motorun biri (sol motor) önce harekete geçtiği için aleti döndürüyor, ya da 
+        4- Motorlardan biri daha önde, ya da 
+        5- Motorlardan biri daha yavaş dönüyor olabilir
+
+    Taşta farklı, halıda farklı gidiyor.
+
+    Taştaki dönme açısını halıda tutturamıyor(halıda az dönüyor)
+
+
+Geliştirme:
+
+    Pillerin şarj edilebilir olması lazım ve sık sık şarj etmek lazım
+
+    Patinaj yaptığını farketmeli (gidilen yolu kaydeden bir tekerlek yardımıyle)
+
+    Yönünü koruması sağlanmalı (pusula ?)
+
+    2 cm yüksekliğe çıkabilmeli
+
+    Çarpmamalı
+
+    Düşmemeli
+
+    
+
+
